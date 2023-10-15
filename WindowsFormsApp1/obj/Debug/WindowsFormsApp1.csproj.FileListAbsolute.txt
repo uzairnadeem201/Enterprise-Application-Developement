@@ -8,3 +8,13 @@ C:\Users\USAMA\Desktop\EAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFo
 C:\Users\USAMA\Desktop\EAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\USAMA\Desktop\EAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\USAMA\Desktop\EAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\USAMA\Desktop\EAD\assignment 1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\USAMA\Desktop\EAD\assignment 1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\USAMA\Desktop\EAD\assignment 1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\USAMA\Desktop\EAD\assignment 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\USAMA\Desktop\EAD\assignment 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\USAMA\Desktop\EAD\assignment 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\USAMA\Desktop\EAD\assignment 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\USAMA\Desktop\EAD\assignment 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\USAMA\Desktop\EAD\assignment 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\USAMA\Desktop\EAD\assignment 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
